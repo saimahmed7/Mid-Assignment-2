@@ -1,0 +1,13 @@
+c:\users\shafiq\documents\visual studio 2013\Projects\BankingSystem\BankingSystem\bin\Debug\BankingSystem.exe.config
+c:\users\shafiq\documents\visual studio 2013\Projects\BankingSystem\BankingSystem\bin\Debug\BankingSystem.exe
+c:\users\shafiq\documents\visual studio 2013\Projects\BankingSystem\BankingSystem\bin\Debug\BankingSystem.pdb
+c:\users\shafiq\documents\visual studio 2013\Projects\BankingSystem\BankingSystem\obj\Debug\BankingSystem.csprojResolveAssemblyReference.cache
+c:\users\shafiq\documents\visual studio 2013\Projects\BankingSystem\BankingSystem\obj\Debug\BankingSystem.exe
+c:\users\shafiq\documents\visual studio 2013\Projects\BankingSystem\BankingSystem\obj\Debug\BankingSystem.pdb
+F:\c#\BankingSystem\BankingSystem\bin\Debug\BankingSystem.exe.config
+F:\c#\BankingSystem\BankingSystem\bin\Debug\BankingSystem.exe
+F:\c#\BankingSystem\BankingSystem\bin\Debug\BankingSystem.pdb
+F:\c#\BankingSystem\BankingSystem\obj\Debug\BankingSystem.csprojAssemblyReference.cache
+F:\c#\BankingSystem\BankingSystem\obj\Debug\BankingSystem.csproj.CoreCompileInputs.cache
+F:\c#\BankingSystem\BankingSystem\obj\Debug\BankingSystem.exe
+F:\c#\BankingSystem\BankingSystem\obj\Debug\BankingSystem.pdb
